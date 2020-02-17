@@ -1,0 +1,6 @@
+.HomeSearchButton {
+  align-self: flex-end;
+  height: 57px;
+  max-width: 80px;
+  margin-bottom: 10px !important;
+}
